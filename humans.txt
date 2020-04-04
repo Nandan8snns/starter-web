@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Nandan  nandan@git.training @awesomejt
 
 # THANKS
 
